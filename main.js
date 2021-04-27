@@ -18,7 +18,7 @@ for(let i = 0; i<100; i++){
 
     async function bubbleSort() {
         for (let i = 0; i < array.length; i++) {
-            for (let i = 0; j < array.length; j++) {
+            for (let j = 0; j < array.length; j++) {
                 if (array[j] > array[j+1]) {
                     let temp = array[j];
                     array[j] = array[j+1];
