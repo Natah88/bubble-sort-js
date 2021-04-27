@@ -2,7 +2,7 @@
 L' exercice en javascript pour créer un tri à bulles à partir d'un algorithme de tri ou "bubble Sort" : 
  - en utilisant quelques lignes dans l'un des implémentations du tri à bulles ,du source : https://www.geeksforgeeks.org/bubble-sort/
  
-## Danns main.js : 
+## Dans main.js : 
  
                         const chart = document.getElementById('chart');
 
